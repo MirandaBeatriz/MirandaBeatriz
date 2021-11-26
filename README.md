@@ -2,5 +2,32 @@
 
 - 🔭 I'm currently a student
 - 🌱 I’m learning bioinformatics analysis
-- 📫 How to reach me: bea.miranda.triz@gmail.com 
 
+<div> 
+   <a href="https://www.linkedin.com/in/beatriz-miranda-b81345165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/bea.ttrix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bea.miranda.triz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/MirandaBeatriz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MirandaBeatriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaBeatriz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bea-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Bea-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bea-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
+</div> 
+
+
+
+  
