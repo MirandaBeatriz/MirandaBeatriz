@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Beatriz Miranda
 
 - 🔭 I'm currently a student
-- 🌱 I’m learning bioinformatics analysis
+- 🌱 I’m learning web development
+- 👀 I’m interested in bioinformatics analysis
 
 <div> 
    <a href="https://www.linkedin.com/in/beatriz-miranda-b81345165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
