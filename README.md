@@ -1,9 +1,27 @@
-### 👋 Hi, I'm Beatriz Miranda
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-- 🔭 I'm currently a student
-- 🌱 I’m learning web development
-- 👀 I’m interested in bioinformatics analysis
+### 👋 Olá, Eu sou Beatriz Miranda
 
+<p align="left">
+   🔭 Sou formada em Informática Biomédica pela FMRP-USP; 
+</p>
+
+<p align="left">
+   🌱 Estou tentando crescer como web developer; 
+</p>
+
+<p align="left">
+   👀 Tenho muito interesse em bioinformática;
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Trello, Git e GitHub.</strong>
+</p>
+
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem:
+</p>
 <div> 
    <a href="https://www.linkedin.com/in/beatriz-miranda-b81345165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bea.ttrix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,17 +36,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MirandaBeatriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaBeatriz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bea-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Bea-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bea-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-</div> 
-
-
-
-  
