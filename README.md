@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-   🌱 Estou tentando crescer como web developer; 
+   🌱 Estou tentando crescer como dev; 
 </p>
 
 <p align="left">
