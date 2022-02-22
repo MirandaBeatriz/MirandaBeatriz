@@ -13,11 +13,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, Git e GitHub.</strong>
-</p>
-
-
-<p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem:
 </p>
 <div> 
