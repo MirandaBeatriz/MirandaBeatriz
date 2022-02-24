@@ -1,7 +1,7 @@
 ### 👋 Olá, Eu sou Beatriz Miranda
 
 <p align="left">
-   🔭 Sou formada em <a href="https://ibm.fmrp.usp.br" target="blank">Informática Biomédica</a> pela FMRP-USP; 
+   🔭 Sou formada em <a href="https://ibm.fmrp.usp.br" target="_parent">Informática Biomédica</a> pela FMRP-USP; 
 </p>
 
 <p align="left">
