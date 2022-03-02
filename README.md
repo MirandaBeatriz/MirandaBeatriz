@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem:
+  💌 Não hesite em me enviar uma mensagem:
 </p>
 <div> 
    <a href="https://www.linkedin.com/in/beatriz-miranda-b81345165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
