@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-   🌱 Sempre buscando complementar meus conhecimentos de acordo com meu propósito; 
+   👩🏻‍💻 Atualmente atuo como desenvolvedora <i>front-end</i>; 
 </p>
 
 <p align="left">
-   🔭 Tenho muito interesse em bioinformática;
+   🌱 Sempre buscando complementar meus conhecimentos de acordo com meu propósito; 
 </p>
 
 <p align="left">
